@@ -1,6 +1,14 @@
-# Chess Game Analysis
+# Data Science & Machine learning Analysis of Chess Games
 
-A comprehensive analysis of chess game patterns across different skill levels, comparing online games from Lichess.org with grandmaster matches and AI games. The main file is ms3.ipynb.
+# Files
+- Data:
+  - games.csv: ~20,000 Lichess games
+  - games2.csv: ~20,000 Grandmaster games
+  - games3.csv AI-Generated Games via stockfish
+    
+ - main.ipynb: main data analysis project conducted. Polished & in-depth
+ - ai_games.ipynb: processed of generating games (optimized for Mac M3, parallelized, very heavy)
+ - experimental: experimental, advanced, but unpolished drafts of future work (training GPT chessbot, in-depth analysis of selected chess openings, analysis of chess moves in latent space)
 
 ## Project Overview
 
