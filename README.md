@@ -1,6 +1,6 @@
 # Chess Game Analysis
 
-A comprehensive analysis of chess game patterns across different skill levels, comparing online games from Lichess.org with grandmaster matches and AI games.
+A comprehensive analysis of chess game patterns across different skill levels, comparing online games from Lichess.org with grandmaster matches and AI games. The main file is ms3.ipynb.
 
 ## Project Overview
 
